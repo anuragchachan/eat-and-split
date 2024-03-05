@@ -9,7 +9,7 @@ A simple project to split bill among friends.
 Follow below Steps after starting development server.
 
 1. Add friends by clicking on 'Add friend' Button.
-2. To spill bill select the respective friend by clicking select button ,
+2. To spilt bill select the respective friend by clicking select button ,
    a split bill form appears.
 
 Note - Currentely you can split bill with 1 person at a time only.
