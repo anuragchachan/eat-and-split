@@ -28,7 +28,7 @@ function Button({ children, onClick, type }) {
   );
 }
 function App() {
-  const [friendsList, setFriendsList] = useState(initialFriendList);
+  const [friendsList, setFriendsList] = useState([]);
   const [showAddFriend, setShowAddFriend] = useState(false);
   const [selectedFriend, setSelectedFriend] = useState(null);
 

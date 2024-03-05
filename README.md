@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This Project
+
+A simple project to split bill among friends.
+
+Follow below Steps after starting development server.
+
+1. Add friends by clicking on 'Add friend' Button.
+2. To spill bill select the respective friend by clicking select button ,
+   a split bill form appears.
+
+Note - Currentely you can split bill with 1 person at a time only.
+
 ## Available Scripts
 
 In the project directory, you can run:
